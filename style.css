@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(54, 54, 54);
+}
+.nachess-text {
+    font-size: 33px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.how-to-connect {
+    font-family: sans-serif;
+    font-size: 23px;
+    text-align: center;
+}
+.title-text {
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.contribution-text-title {
+    font-size: 65px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.contribution-text {
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.games-content-title {
+    font-size: 65px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.games-intro {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.games-list {
+    font-family: sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+.container-main-text {
+    background-color: turquoise;
+    float: left;
+    width: 75%;
+}
+.updates {
+    width: 24%;
+    float: right;
+    background-color: crimson;
+    font-family: cursive;
+}
